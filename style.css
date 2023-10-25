@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap'); 
+
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.f-div {
+     background-color:red; 
+   height: 40px;
+   
+}
+.f-div i{
+    color: white;
+    margin-top: 5px;
+    text-transform: lowercase;
+}
+ .f-div span{
+    color: white;
+}
+.lan-btn{
+    background-color: white;
+    color: red;
+    border-radius: 40px;
+    width: 80px;
+    height: 35px;
+    margin-top: 3px; 
+    
+     
+}
+
+.nav-link{
+    color: black;
+}
+
+button{
+    background-color: red;
+    border: 1px solid white;
+    border: 50px;
+    width: 150px;
+    padding: 10px;
+    color: white;
+    border-radius: 50px;   
+}
+
+.pa{
+    color: red;
+}
+
+.more-f{
+    background-color: red;
+    height: 40px;
+    width:100px;
+    text-align: center;
+    border-radius: 20px;
+}
+.moreFa-btn{
+    border:1px solid black;
+    width: 60px;
+   
+}
+.header{
+    background-image: url(./images/banner_bg.png);
+}
+
+.footer-top{
+    background-color: rgb(66, 58, 58);
+}
+
+/* ---------Home---------- */
+.bannerSection 
+
+/* --------about--------- */
+.isoB{
+    background-color: rgb(239, 245, 221);
+} 
